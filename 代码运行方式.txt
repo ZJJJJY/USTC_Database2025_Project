@@ -1,0 +1,7 @@
+图书综合管理系统-代码运行说明
+1.环境要求
+	1.后端：java
+	2.前端：node.js 22.16.0、Vue.js 3
+	3.数据库：MySQL 9.2
+	4.其他工具：git、npm
+2.在IDEA中打开lib文件，分别运行后端VueBookBackendApplication和前端dev文件，即可通过localhost访问网页
